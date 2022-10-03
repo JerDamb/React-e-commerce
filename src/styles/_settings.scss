@@ -1,0 +1,21 @@
+$color-1: #0087fc;
+$color-2: #8a74f6;
+$color-3: #ff7fbd;
+$color-4: #ffbb9e;
+$color-5: #ffe9aa;
+$white: #ddd;
+$black: #333;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Urbanist", sans-serif;
+  background-color: $white;
+}
+
+@mixin verticalCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
