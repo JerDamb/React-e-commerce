@@ -11,7 +11,10 @@ $black: #333;
   padding: 0;
   box-sizing: border-box;
   font-family: "Urbanist", sans-serif;
-  background-color: $white;
+}
+
+.siteContainer {
+  background: $color-4;
 }
 
 @mixin verticalCenter {
