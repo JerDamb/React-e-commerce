@@ -18,9 +18,11 @@ const Slider = () => {
               />
             </div>
             <div className="infoContainerSlider">
-              <div className="titleSlider">Titre du slider</div>
-              <div className="desc">Description</div>
-              <button>BUTTON</button>
+              <h1>SUMMER SALES</h1>
+              <div className="descriptionSlider">
+                DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF NEW ARRIVALS.
+              </div>
+              <button>SHOW NOW.</button>
             </div>
           </div>
         </div>
