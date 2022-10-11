@@ -3,6 +3,7 @@
   height: 100vh;
   display: flex;
   position: relative;
+  overflow: hidden;
 
   .arrowLeft,
   .arrowRight {
@@ -35,13 +36,14 @@
   }
 
   .wrapperSlider {
-    width: 100vw;
-    height: 100vh;
+    height: 100%;
+    display: flex;
 
     .slideSlider {
+      width: 100vw;
+      height: 100vh;
       display: flex;
       align-items: center;
-      height: 100%;
 
       .imgContainerSlider {
         flex: 1;
