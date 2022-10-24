@@ -51,11 +51,11 @@ export const popularProducts = [
   },
   {
     id: 3,
-    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
   },
   {
     id: 4,
-    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "http://cdn140.picsart.com/281174677019211.png",
   },
   {
     id: 5,
@@ -71,18 +71,6 @@ export const popularProducts = [
   },
   {
     id: 8,
-    img: "https://cdn140.picsart.com/269032105006211.png?r1024x1024",
-  },
-  {
-    id: 9,
-    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
-  },
-  {
-    id: 10,
-    img: "http://cdn130.picsart.com/269586206002211.png",
-  },
-  {
-    id: 11,
-    img: "https://i.pinimg.com/originals/b6/8e/53/b68e532b7354a787431415ba44763c93.png",
+    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
   },
 ];

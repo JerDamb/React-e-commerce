@@ -7,8 +7,10 @@ const Product = ({ item }) => {
   return (
     <>
       <div className="containerProduct">
-        <div className="circle"></div>
-        <img src={item.img} alt="" />
+        <div className="item">
+          <div className="circle"></div>
+          <img src={item.img} alt="" />
+        </div>
         <div className="infos">
           <div className="icon">
             <ShoppingCartOutlinedIcon />
