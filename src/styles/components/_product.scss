@@ -7,6 +7,7 @@
   position: relative;
   display: flex;
   justify-content: center;
+  align-items: center;
 
   .item {
     margin-top: -60px;
@@ -16,6 +17,7 @@
 
     .circle {
       position: relative;
+      display: flex;
       width: 200px;
       height: 200px;
       border-radius: 50%;
@@ -31,10 +33,20 @@
 
   .infos {
     position: absolute;
-    bottom: 0;
-    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     cursor: pointer;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    height: 100%;
     z-index: 3;
+    transition: 0.5s;
+
+    &:hover {
+      opacity: 1;
+    }
 
     .icon {
       width: 40px;

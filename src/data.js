@@ -51,7 +51,7 @@ export const popularProducts = [
   },
   {
     id: 3,
-    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "https://res.cloudinary.com/teamshirts/image/upload/c_scale,w_auto/c_limit,f_auto,fl_lossy,q_auto/v1/prod/landingpages/sweat_personnalise",
   },
   {
     id: 4,
@@ -71,6 +71,6 @@ export const popularProducts = [
   },
   {
     id: 8,
-    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "https://www.bardot.com/dw/image/v2/BCGZ_PRD/on/demandware.static/-/Sites-bardot-master-catalog/default/dw138de2b7/images/hi-res/bardot/91053PB/91053PB_110601_TF_02.png?sw=1000&sh=1500&sm=fit",
   },
 ];
