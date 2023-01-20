@@ -41,6 +41,15 @@ const Product = () => {
                 <option className="filterSizeOption">XXL</option>
               </select>
             </div>
+            <div className="addContainer">
+              <div className="amountContainer">
+                <div className="remove">
+                  <div className="amount">1</div>
+                  <div className="add"></div>
+                  <button>ADD TO CART</button>
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
